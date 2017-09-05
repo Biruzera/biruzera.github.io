@@ -3255,9 +3255,9 @@
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
 		background: #2e3842;
-		height: 3em;
+		height: 4em;
 		left: 0;
-		line-height: 3em;
+		line-height: 4em;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -3315,7 +3315,7 @@
 						border: 0;
 						color: #fff;
 						display: block;
-						font-size: 0.8em;
+						font-size: 1.0em;
 						letter-spacing: 0.225em;
 						padding: 0 1.5em;
 						text-transform: uppercase;
