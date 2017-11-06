@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+        <head>
+                <title>Bandeira</title>
+                <!-- <link rel=stylesheet href="/static/css/bootstrap.min.css" type="text/css"> -->
+                <style>
+                        /* these tyles need to be defined locally */
+                        body {
+                            padding:0px;
+                            margin: 0px;
+                            background-color: white;
+                            color: black;
+                            font-weight: 300;
+                            font-size: 13pt;
+                        }
+
+                        /* ad.html  - the ad that people view first */
+                        #adlogo {
+                            float: right;
+                            width: 400px;
+                            padding: 2px;
+                            border: 1px solid #ccc;
+                        }
+
+                        #container-ad {
+                            /*position: absolute;*/
+                            top: 0px; /* Header Height */
+                            bottom: 0px; /* Footer Height */
+                            left: 0px;
+                            right: 0px;
+                            padding: 100px;
+                            padding-top: 5%;
+                            border: 18px solid #f3f3f3;
+                            background: yellow;
+                        }
+                </style>
+        </head>
+        <body>
+          <div id="container-ad">
+            <div id="ad">
+              <!-- <div class="row"> -->
+                <div class="col-xs-2">
+                  <img id="adlogo" src="images/ad.jpg" alt="Bandeira" />
+                </div>
+              <!-- </div> -->
+            </div>
+          </div>
+      </body>
+</html>
