@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #62a7c9;
+			background-color: #499abd;
 			color: #c7ebe8;
 		}
 
@@ -3160,7 +3160,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #499abd;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3179,7 +3179,7 @@
 		}
 
 			#menu ul > li {
-				border-top: solid 1px rgba(0, 0, 0, 0.125);
+				border-top: solid 1px #4d8eab;
 				margin: 0.5em 0 0 0;
 				padding: 0.5em 0 0 0;
 			}
@@ -3199,6 +3199,7 @@
 					outline: 0;
 					text-decoration: none;
 					text-transform: uppercase;
+					font-weight: 600;
 				}
 
 					@media screen and (max-width: 736px) {
@@ -8501,7 +8502,7 @@ button.list-group-item-danger.active:focus {
   color: #000;
   text-shadow: 0 1px 0 #fff;
   filter: alpha(opacity=20);
-  opacity: .2;
+  opacity: .8;
 }
 .close:hover,
 .close:focus {
