@@ -1,2 +1,3 @@
 # biruzera
-Biruzera Longboard Classic - Festival de Surfe
+Biruzera Logger Festival
+Itapirubá - Santa Catarina - Brasil
