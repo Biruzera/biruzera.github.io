@@ -3130,6 +3130,14 @@
 			background-color: #ffffff;
 			color: #d3d4e4;
 		}
+		
+			.wrapper.style6 h2, .wrapper.style6 h3, .wrapper.style6 h4, .wrapper.style6 h5, .wrapper.style6 h6 {
+				color: #353535;
+			}
+
+			.wrapper.style6 header p {
+				color: #353535;
+			}
 
 /* Page Wrapper + Menu */
 
