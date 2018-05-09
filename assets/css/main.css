@@ -3465,7 +3465,8 @@
 			transform: translateY(0);
 			border: none;
 			bottom: 0;
-			color: inherit;
+			color: #353535;
+			text-decoration: none;
 			font-size: 0.8em;
 			height: 8.5em;
 			left: 50%;
