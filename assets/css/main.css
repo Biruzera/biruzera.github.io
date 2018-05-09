@@ -3701,7 +3701,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0 4em 0 ;
+		padding: 3em 0 2em 0 ;
 		background-color: #1d242a;
 		text-align: center;
 	}
@@ -3711,11 +3711,11 @@
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.5);
+				color: #fff;
 			}
 
 				#footer .icons a:hover {
-					color: #fff;
+					color: #499ABD;
 				}
 
 		#footer .copyright {
@@ -3725,6 +3725,8 @@
 			list-style: none;
 			padding: 0;
 			text-transform: uppercase;
+			text-decoration: none;
+			
 		}
 
 			#footer .copyright li {
@@ -3789,7 +3791,7 @@
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: #353535;
 	}
 
 	body.is-mobile.landing #page-wrapper {
