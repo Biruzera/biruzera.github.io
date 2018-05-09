@@ -2956,6 +2956,10 @@
 			background-color: #353535;
 		}
 
+		body.is-mobile.landing .wrapper.style4 {
+    			background-color: #353535;
+		}
+
 		.wrapper.style5 {
 			background-color: #ffffff;
 			color: #4E4852;
@@ -3710,6 +3714,7 @@
 	body.is-mobile #main > header {
 		background-attachment: scroll;
 	}
+
 
 /* Footer */
 
