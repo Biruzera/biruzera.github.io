@@ -2957,7 +2957,7 @@
 		}
 
 		body.is-mobile.landing .wrapper.style4 {
-    			background-color: #353535;
+    			background-color: #353535 !important;
 		}
 
 		.wrapper.style5 {
