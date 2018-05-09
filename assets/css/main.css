@@ -1474,7 +1474,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 600;
-		letter-spacing: 0.225em;
+		letter-spacing: 0.175em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #62a7c9;
 			color: #c7ebe8;
 		}
 
@@ -2654,7 +2654,7 @@
 			}
 
 			.wrapper.style1 hr {
-				border-color: rgba(0, 0, 0, 0.125);
+				border-color: #353535;
 			}
 
 			.wrapper.style1 blockquote {
@@ -2674,7 +2674,7 @@
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: #fff;
 			}
 
 			.wrapper.style1 label {
