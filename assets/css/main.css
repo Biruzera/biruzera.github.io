@@ -9427,3 +9427,8 @@ button.close {
     display: none !important;
   }
 }
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
